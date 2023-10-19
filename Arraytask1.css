@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+}
+button{
+    background-color: darkslateblue;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#output {
+    text-align: center;
+    font-size: 30px;
+    color: purple;  
+    margin-top: 120px;
+}
+#btn {
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 150px;
+}
